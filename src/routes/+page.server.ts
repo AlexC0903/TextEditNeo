@@ -5,6 +5,7 @@ import { error } from "@sveltejs/kit";
 import { eq } from "drizzle-orm";
 import { zfd } from "zod-form-data";
 
+
 export const load = async ({ locals }) => {
   const userProfile = await getOrCreateUserProfile(locals);
 
