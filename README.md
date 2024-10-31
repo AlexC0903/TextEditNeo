@@ -1,1 +1,1 @@
-Rich Text Editor build with SvelteKit and Tauri 2.0
+Rich Text Editor built with SvelteKit and Tauri 2.0
